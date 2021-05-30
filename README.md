@@ -1,2 +1,4 @@
 # redis_master_slave_pattern
-redis主从模式搭建（windows环境）
+redis主从模式（代码为windows环境）
+
+(说明文档)[https://mp.weixin.qq.com/s?__biz=Mzg5MjUzMzA0MA==&tempkey=MTExNV96V21tdFZrQnNMK3JTYW0rUUcwcENodjctajRzUEExTmx2WWNqRG00Q2llMjFZeU84WUNnVjdNdHFYWVVzVGJqSkdZdUt3WmFINjdTYlI2MkszNEttSTlLQjBLMk9vUGNtZ2tvdWNVODJBTXJfMnd5WEdxZ0dhWmp1RHNtR3pRRUJEclpranc2VjJwMm54S2pJS0IzMTc2cWlkUnVYTGNkRUNNUVpRfn4%3D&chksm=403de5cb774a6cdd46db30cc8e61df440e6379d79704e54c1b16563ff925f71bccd36430f1e2#rd]
